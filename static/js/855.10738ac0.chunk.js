@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmatch_match=self.webpackChunkmatch_match||[]).push([[855],{855:function(c,t,a){c.exports=a.p+"static/media/10.5458f9dd142904438dc4.png"}}]);
