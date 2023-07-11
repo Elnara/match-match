@@ -1,10 +1,8 @@
 import React from "react";
-import { Outlet, useRoutes } from "react-router-dom";
-
+import { routes } from "consts";
 import Layout from "layouts";
 import { Game, Rating } from "pages";
-
-import { routes } from "./consts";
+import { useRoutes } from "react-router-dom";
 
 const AppRoutes = () =>
   useRoutes([
